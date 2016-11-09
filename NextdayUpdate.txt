@@ -1,1 +1,2 @@
-this is a text file which is made to check the git next day
+this is a text file which is made to check the git next day.
+this is a next edition.
